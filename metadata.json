@@ -1,0 +1,6 @@
+{
+  "name": "FacultyHub",
+  "description": "Faculty Course Management System (FCMS) for academic workflows with Admin, Faculty, and Student consoles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
